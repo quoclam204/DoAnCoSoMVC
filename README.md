@@ -15,4 +15,3 @@ Website bán đặc sản Đà Lạt được xây dựng theo mô hình **MVC (
 ✅ Quản lý đơn hàng  
 ✅ Đăng ký, đăng nhập, phân quyền  
 ✅ Tìm kiếm và lọc sản phẩm  
-✅ Tích hợp thanh toán online (VNPay, Momo,...)  
