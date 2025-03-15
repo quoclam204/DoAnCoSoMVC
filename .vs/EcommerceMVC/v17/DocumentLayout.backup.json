@@ -1,0 +1,341 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\areas\\admin\\views\\homeadmin\\danhmucsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\areas\\admin\\views\\share\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\areas\\admin\\views\\share\\_layoutadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\components\\menuloai\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\menuloaivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\viewcomponents\\menuloaiviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_layoutcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\areas\\admin\\views\\homeadmin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\shared\\_danhsachhanghoa.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\hanghoa\\productitem.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\hanghoa\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\hanghoa\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\viewmodels\\hanghoavm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\controllers\\hanghoacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\hanghoa\\search.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:01:18.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DanhMucSanPham.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T02:01:11.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdmin.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\Share\\_LayoutAdmin.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Views\\Share\\_LayoutAdmin.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\Share\\_LayoutAdmin.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Areas\\Admin\\Views\\Share\\_LayoutAdmin.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T02:00:35.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAFQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T19:26:13.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T11:10:49.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MenuLoaiVM.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "RelativeToolTip": "EcommerceMVC\\ViewModels\\MenuLoaiVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T11:02:29.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MenuLoaiViewComponent.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "RelativeToolTip": "EcommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:23:28.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_LayoutCustomer.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAIgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T17:51:12.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\CartItem.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\ViewModels\\CartItem.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\CartItem.cs",
+              "RelativeToolTip": "EcommerceMVC\\ViewModels\\CartItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:02:04.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T02:01:48.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductItem.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\ProductItem.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\ProductItem.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\HangHoa\\ProductItem.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:10:50.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\Detail.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Detail.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\HangHoa\\Detail.cshtml",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAIIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T16:36:39.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\HangHoa\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T10:13:04.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_DanhSachHangHoa.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T13:58:03.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\CartController.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Controllers\\CartController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Controllers\\CartController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T18:27:38.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HangHoaVM.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\HangHoaVM.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\ViewModels\\HangHoaVM.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\HangHoaVM.cs",
+              "RelativeToolTip": "EcommerceMVC\\ViewModels\\HangHoaVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T12:52:49.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Search.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Search.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\Search.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Search.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\HangHoa\\Search.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-23T14:40:19.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HangHoaController.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\HangHoaController.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Controllers\\HangHoaController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Controllers\\HangHoaController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwFIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-23T10:11:59.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "EcommerceMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T18:42:25.617Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

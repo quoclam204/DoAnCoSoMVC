@@ -1,0 +1,997 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EcommerceMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EcommerceMVC.l3anajz7dw.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\49203662_647663172317014_5263417373968302080_n.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\49203662_647663172317014_5263417373968302080_n.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\64777125_392098044753185_2256469211935145984_n.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\64777125_392098044753185_2256469211935145984_n.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\ATISO.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ATISO.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Camera1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Camera1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Chuoi-Laba-deo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Chuoi-Laba-deo.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Dua-Pepino.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Dua-Pepino.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Hoahongdo.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Hoahongdo.jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Hop-qua-tet-dac-san-4-món_3-1024x683-1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Hop-qua-tet-dac-san-4-món_3-1024x683-1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Nuoc-cot-chanh-day-350ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Nuoc-cot-chanh-day-350ml.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Nuoc-cot-dau-tam-350ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Nuoc-cot-dau-tam-350ml.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Nuoc-cot-dau-tay-350ml.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Nuoc-cot-dau-tay-350ml.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\Sinh-to-Atiso-do.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\Sinh-to-Atiso-do.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\To.gif",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\To.gif"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\bo-booth-5.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\bo-booth-5.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\bong-atiso-kho.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\bong-atiso-kho.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\ca-chua-than-go.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ca-chua-than-go.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\cafe-dalavi-2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\cafe-dalavi-2.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\cao-atiso-nuoc-da-lat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\cao-atiso-nuoc-da-lat.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\dau-tam-ngam-2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dau-tam-ngam-2.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\dau-tam-tuoi-da-lat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dau-tam-tuoi-da-lat.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\dau-tay-say-deo-5.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dau-tay-say-deo-5.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\dua-le-phap.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dua-le-phap.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\dâu tây.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\dâu tây.jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hat-dieu-nuong.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hat-dieu-nuong.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hatmacca.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hatmacca.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hong-deo-che-mieng-dalavi-1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hong-deo-che-mieng-dalavi-1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hong-gion-.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hong-gion-.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hong-gion.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hong-gion.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hong-treo-gio-500gr-1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hong-treo-gio-500gr-1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hop-qua-bieu-tet-cao-cap-dalavi-3.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hop-qua-bieu-tet-cao-cap-dalavi-3.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\hồng.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\hồng.jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\images (1).jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\images (1).jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\images (2).jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\images (2).jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\images (4).jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\images (4).jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\images (5).jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\images (5).jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\images (6).jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\images (6).jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\images (7).jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\images (7).jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\images.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\images.jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\keo-dau-deo-5-e1655897191195.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\keo-dau-deo-5-e1655897191195.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\khoai-lang-deo-3.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\khoai-lang-deo-3.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\khoai-tim-lat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\khoai-tim-lat.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\mang-cau-say-deo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mang-cau-say-deo.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\mat-ong-dalavi-6.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mat-ong-dalavi-6.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\mit-say.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mit-say.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\mut-dau-tam-1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mut-dau-tam-1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\mut-dau-tay-51.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\mut-dau-tay-51.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\nuoc-cot-atiso-do-dalavi-2.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\nuoc-cot-atiso-do-dalavi-2.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\ot-trai-cay.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ot-trai-cay.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\phan-hoa-thien-nhien-dalavi.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\phan-hoa-thien-nhien-dalavi.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\phuc-bon-tu-den.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\phuc-bon-tu-den.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\phuc-bon-tu-do.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\phuc-bon-tu-do.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\ruouvang.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\ruouvang.jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\sam-dat.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\sam-dat.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\strawberries-528791_640.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\strawberries-528791_640.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\tao-say-deo-1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tao-say-deo-1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\thom-say-deo.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\thom-say-deo.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\tinh-chat-phuc-bon-tu-den-3.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tinh-chat-phuc-bon-tu-den-3.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\tra-atiso-tui-loc-40-tui.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tra-atiso-tui-loc-40-tui.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\tải xuống.jpeg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\tải xuống.jpeg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\Hinh\\HangHoa\\vai-thieu-say-kho-602x400-1.jpg",
+      "PackagePath": "staticwebassets\\Hinh\\HangHoa\\vai-thieu-say-kho-602x400-1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\avatar.jpg",
+      "PackagePath": "staticwebassets\\img\\avatar.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\cao-atiso-da-lat.jpg",
+      "PackagePath": "staticwebassets\\img\\cao-atiso-da-lat.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\cart-page-header-img.jpg",
+      "PackagePath": "staticwebassets\\img\\cart-page-header-img.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\dautay.jpg",
+      "PackagePath": "staticwebassets\\img\\dautay.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\dautay2.jpg",
+      "PackagePath": "staticwebassets\\img\\dautay2.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\dautay3.jpg",
+      "PackagePath": "staticwebassets\\img\\dautay3.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\featur-1.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-1.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\featur-2.jpg",
+      "PackagePath": "staticwebassets\\img\\featur-2.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\fruite-item-2.jpg",
+      "PackagePath": "staticwebassets\\img\\fruite-item-2.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\hero-img-1.png",
+      "PackagePath": "staticwebassets\\img\\hero-img-1.png"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\hero-img-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img-2.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\hero-img.jpg",
+      "PackagePath": "staticwebassets\\img\\hero-img.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\hong-treo-gio-dalavi-dalat.jpg",
+      "PackagePath": "staticwebassets\\img\\hong-treo-gio-dalavi-dalat.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\macca.jpg",
+      "PackagePath": "staticwebassets\\img\\macca.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\nuocepdt.jpg",
+      "PackagePath": "staticwebassets\\img\\nuocepdt.jpg"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\img\\payment.png",
+      "PackagePath": "staticwebassets\\img\\payment.png"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\wwwroot\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EcommerceMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EcommerceMVC.props",
+      "PackagePath": "build\\EcommerceMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EcommerceMVC.props",
+      "PackagePath": "buildMultiTargeting\\EcommerceMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EcommerceMVC.props",
+      "PackagePath": "buildTransitive\\EcommerceMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
