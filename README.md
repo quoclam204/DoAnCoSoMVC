@@ -1,8 +1,8 @@
 # Đề tài: Xây dựng website Bán Đặc Sản Đà Lạt 
-# Giới thiệu: Website bán đặc sản Đà Lạt được xây dựng theo mô hình MVC (Model-View-Controller) với ASP.NET Core, hỗ trợ quản lý sản phẩm, đơn hàng và người dùng.
+Giới thiệu: Website bán đặc sản Đà Lạt được xây dựng theo mô hình MVC (Model-View-Controller) với ASP.NET Core, hỗ trợ quản lý sản phẩm, đơn hàng và người dùng.
 
 # Công nghệ sử dụng: 
-# Frontend: HTML, CSS, JavaScript, Bootstrap 
-# Backend: ASP.NET Core, C# 
-# Database: MySQL 
-# ORM: Entity Framework Core
+Frontend: HTML, CSS, JavaScript, Bootstrap 
+Backend: ASP.NET Core, C# 
+Database: MySQL 
+ORM: Entity Framework Core
