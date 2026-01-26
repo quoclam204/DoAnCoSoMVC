@@ -569,7 +569,6 @@ E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\sco
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.build.json
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.development.json
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\Ecommerc.5D45C106.Up2Date
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.dll
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\refint\EcommerceMVC.dll

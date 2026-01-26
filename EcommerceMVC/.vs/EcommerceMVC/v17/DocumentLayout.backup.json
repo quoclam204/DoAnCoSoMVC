@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -49,6 +49,14 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
@@ -58,8 +66,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T12:19:02.893Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T12:19:02.893Z"
             },
             {
               "$type": "Document",
@@ -71,8 +78,7 @@
               "RelativeToolTip": "ViewModels\\HangHoaVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T11:54:32.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:54:32.898Z"
             },
             {
               "$type": "Document",
@@ -84,8 +90,7 @@
               "RelativeToolTip": "Areas\\Admin\\Views\\HomeAdmin\\SuaSanPham.cshtml",
               "ViewState": "AgIAAC8AAAAAAAAAAAAmwEMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-25T11:51:07.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T11:51:07.422Z"
             },
             {
               "$type": "Document",
@@ -95,7 +100,7 @@
               "RelativeDocumentMoniker": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
               "RelativeToolTip": "Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF8AAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAEcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-25T09:04:30.106Z",
               "EditorCaption": ""
