@@ -569,12 +569,6 @@ E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\sco
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.build.json
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.development.json
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets\msbuild.EcommerceMVC.Microsoft.AspNetCore.StaticWebAssets.props
-E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets\msbuild.EcommerceMVC.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
-E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets\msbuild.build.EcommerceMVC.props
-E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EcommerceMVC.props
-E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EcommerceMVC.props
-E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.pack.json
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\Ecommerc.5D45C106.Up2Date
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.dll
@@ -582,3 +576,9 @@ E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\ref
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.pdb
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.genruntimeconfig.cache
 E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\ref\EcommerceMVC.dll
+E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\EcommerceMVC.sourcelink.json
+E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\DoAn_Web\Cuoicung\EcommerceMVC\EcommerceMVC\EcommerceMVC\obj\Debug\net8.0\staticwebassets.build.json.cache

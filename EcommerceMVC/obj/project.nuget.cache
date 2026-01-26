@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VhtOIuAPeU8=",
+  "dgSpecHash": "gI92p6s+26I=",
   "success": true,
   "projectFilePath": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC.csproj",
   "expectedPackageFiles": [
@@ -179,8 +179,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'PagedList 1.17.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC.csproj",
       "libraryId": "PagedList",
       "targetGraphs": [
         "net8.0"
@@ -189,8 +191,10 @@
     {
       "code": "NU1701",
       "level": "Warning",
-      "warningLevel": 1,
       "message": "Package 'PagedList.Mvc 4.5.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net8.0'. This package may not be fully compatible with your project.",
+      "projectPath": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC.csproj",
+      "warningLevel": 1,
+      "filePath": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC.csproj",
       "libraryId": "PagedList.Mvc",
       "targetGraphs": [
         "net8.0"

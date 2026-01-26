@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\data\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\phanquyen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\data\\chude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\data\\chude.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|e:\\doan_web\\cuoicung\\ecommercemvc\\ecommercemvc\\ecommercemvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E79BA620-3D1F-4801-B2BA-3401D3593EE7}|EcommerceMVC\\EcommerceMVC.csproj|solutionrelative:ecommercemvc\\areas\\admin\\controllers\\homeadmincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -86,7 +102,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -105,21 +121,73 @@
               "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeAdminController.cs",
-              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "RelativeToolTip": "EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowDEAAAARAAAAAAAAAA==",
+              "Title": "PhanQuyen.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Data\\PhanQuyen.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\PhanQuyen.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Data\\PhanQuyen.cs",
+              "RelativeToolTip": "EcommerceMVC\\Data\\PhanQuyen.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T02:01:18.498Z",
+              "WhenOpened": "2025-08-18T12:56:50.519Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ChuDe.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Data\\ChuDe.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Data\\ChuDe.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Data\\ChuDe.cs",
+              "RelativeToolTip": "EcommerceMVC\\Data\\ChuDe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:56:41.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "EcommerceMVC\\appsettings.json",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\appsettings.json",
+              "RelativeToolTip": "EcommerceMVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-18T12:24:18.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Program.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Program.cs",
+              "RelativeToolTip": "EcommerceMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T12:24:11.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeAdminController.cs",
+              "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ToolTip": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "RelativeToolTip": "EcommerceMVC\\Areas\\Admin\\Controllers\\HomeAdminController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:01:18.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "DanhMucSanPham.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\DanhMucSanPham.cshtml",
@@ -131,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "_LayoutAdmin.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\Share\\_LayoutAdmin.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Views\\Share\\_LayoutAdmin.cshtml",
@@ -143,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Cart\\Index.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Cart\\Index.cshtml",
@@ -155,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Default.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\Components\\MenuLoai\\Default.cshtml",
@@ -167,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "MenuLoaiVM.cs",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\MenuLoaiVM.cs",
               "RelativeDocumentMoniker": "EcommerceMVC\\ViewModels\\MenuLoaiVM.cs",
@@ -179,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "MenuLoaiViewComponent.cs",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
               "RelativeDocumentMoniker": "EcommerceMVC\\ViewComponents\\MenuLoaiViewComponent.cs",
@@ -191,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "_LayoutCustomer.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\_LayoutCustomer.cshtml",
@@ -203,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "CartItem.cs",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\CartItem.cs",
               "RelativeDocumentMoniker": "EcommerceMVC\\ViewModels\\CartItem.cs",
@@ -215,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Areas\\Admin\\Views\\HomeAdmin\\Index.cshtml",
@@ -227,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "ProductItem.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\ProductItem.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\ProductItem.cshtml",
@@ -239,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Detail.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Detail.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\Detail.cshtml",
@@ -251,7 +319,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Index.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\Index.cshtml",
@@ -263,7 +331,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "_DanhSachHangHoa.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\Shared\\_DanhSachHangHoa.cshtml",
@@ -275,7 +343,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "CartController.cs",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\CartController.cs",
@@ -287,7 +355,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "HangHoaVM.cs",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\ViewModels\\HangHoaVM.cs",
               "RelativeDocumentMoniker": "EcommerceMVC\\ViewModels\\HangHoaVM.cs",
@@ -299,7 +367,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Search.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\HangHoa\\Search.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\HangHoa\\Search.cshtml",
@@ -311,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "HangHoaController.cs",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Controllers\\HangHoaController.cs",
               "RelativeDocumentMoniker": "EcommerceMVC\\Controllers\\HangHoaController.cs",
@@ -323,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "E:\\DoAn_Web\\Cuoicung\\EcommerceMVC\\EcommerceMVC\\EcommerceMVC\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "EcommerceMVC\\Views\\_ViewStart.cshtml",
