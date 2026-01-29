@@ -1,0 +1,14 @@
+# Visual Studio tệp tạm và bộ nhớ cache
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.userosscache
+*.sln.docstates
+
+# File rác của hệ thống (MacOS/Windows)
+.DS_Store
+Thumbs.db
+
+# Tệp cấu hình cá nhân (nếu có)
+appsettings.Development.json
