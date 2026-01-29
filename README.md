@@ -11,7 +11,7 @@ An ASP.NET Core MVC e-commerce platform for selling Dalat specialties.
 <img width="1919" height="1027" alt="Image" src="https://github.com/user-attachments/assets/57792aac-6f69-4ed8-bdc3-12d7b3e9510a" />
 
 ### Product List
-![Products](screenshots/products.png)
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/a5f3b3ec-d09f-4889-b4ff-457039085f28" />
 
 ### Admin Dashboard
 ![Admin](screenshots/admin.png)
